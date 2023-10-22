@@ -32,8 +32,8 @@
     <dependencies>
         <dependency>
             <groupId>com.xenoamess</groupId>
-           <artifactId>JXInput</artifactId>
-           <version>1.0.1</version>
+            <artifactId>JXInput</artifactId>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.github.WilliamAHartman</groupId>
