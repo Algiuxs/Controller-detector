@@ -16,10 +16,12 @@ public class Keyboard implements ActionListener, KeyListener {
 
     int key = e.getKeyCode();
 
+    System.out.print(e.getKeyChar()); 
     if (key == KeyEvent.VK_ESCAPE) {
       System.exit(1);
     }
   }
+
 
   @Override
   public void actionPerformed(ActionEvent e) {
